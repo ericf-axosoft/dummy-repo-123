@@ -1,0 +1,3 @@
+[submodule "testing-git-stuff"]
+	path = testing-git-stuff
+	url = https://github.com/relyss/testing-git-stuff.git
